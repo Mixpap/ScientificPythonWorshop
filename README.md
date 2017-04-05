@@ -19,3 +19,5 @@ https://github.com/Mixpap/ScientificPythonWorshop/blob/master/1st%20Workshop.ipy
 
 2. ***Προσομοιώση κίνησης ενός βλήματος με μεθόδους αριθμητικής ολοκλήρωσης***
 https://github.com/Mixpap/ScientificPythonWorshop/blob/master/2nd%20Workshop.ipynb
+
+#### Επόμενο Workshop >> Παρασκευη 7/4 στις 12 στην άιθουσα συνεδριάσεων του τομέα Αστροφυσικής
